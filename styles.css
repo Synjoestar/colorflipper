@@ -232,3 +232,11 @@ main {
   color: var(--clr-white);
   background: var(--clr-black);
 }
+
+footer {
+  background: var(--clr-white);
+  height: 1.5rem;
+  display: grid;
+  align-items: center;
+  box-shadow: var(--dark-shadow);
+}
