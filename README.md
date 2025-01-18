@@ -76,4 +76,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-Dibuat dengan ❤️ oleh [Your Name]
+Dibuat dengan ❤️ oleh [syn]
